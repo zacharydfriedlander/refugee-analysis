@@ -3,7 +3,7 @@ Date extracted: 2015-02-10 23:13 +00:00
 
 "Time Series – Persons of concern to UNHCR"
 
-Country / territory of residence,Origin / Returned from,Population type,2000,2001,2002,2003,2004,2005,2006,2007,2008,2009,2010,2011,2012,2013
+Country Name,Origin / Returned from,Population type,2000,2001,2002,2003,2004,2005,2006,2007,2008,2009,2010,2011,2012,2013
 Afghanistan,Afghanistan,Internally displaced,758625,1200000,665156,184269,159549,142505,129310,153718,230670,297129,351907,447547,486298,631286
 Afghanistan,Afghanistan,Returned IDPs,,,753344,82067,27391,17044,10443,8012,6453,7225,3366,75453,18830,21830
 Afghanistan,Afghanistan,Others of concern,,,,,,,,,,,838250,951167,879376,275486
