@@ -14,10 +14,13 @@ Our intent is to see if countries can better anticipate mass migration scenarios
 - [The Fragile States Index Data](http://fsi.fundforpeace.org/data)
 
 ### In Consideration
+- [IAB brain-drain data](http://www.iab.de/en/daten/iab-brain-drain-data.aspx#Sources)
+- [World Bank Open Data](http://data.worldbank.org/)
+- [IMF Data](http://www.imf.org/en/Data#data)
 
 ## Techniques
 
 ## Authors
-Zachary Friedlander
-Elias Ellison
-Chen Ye
+- Zachary Friedlander
+- Elias Ellison
+- Chen Ye
