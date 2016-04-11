@@ -9,7 +9,10 @@ Our intent is to see if countries can better anticipate mass migration scenarios
 
 ## Data
 ### In-Use
-### Processing
+### Processing/Processed
+- [UNHCR Refugee Population Statistics](https://data.hdx.rwlabs.org/dataset/7296b00d-b52c-4ccd-ae85-00d00b2a8f62)
+- [The Fragile States Index Data](http://fsi.fundforpeace.org/data)
+
 ### In Consideration
 
 ## Techniques
