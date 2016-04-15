@@ -18,5 +18,3 @@ def cleanup_fragile_states():
         cols_to_use = data_yr.columns.difference(data.columns)
         data = pandas.concat([data, data_yr[cols_to_use]], axis=1)
     data.to_csv("data/fragilestatesindex_joined.csv", index=False)
-
-    return data

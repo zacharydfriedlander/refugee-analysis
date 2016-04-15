@@ -16,4 +16,3 @@ def cleanup_psq_tms():
         filtered = pandas.concat([filtered,
                                   pandas.DataFrame(new_values).transpose()])
     filtered.to_csv("data/PSQ_TMS_filtered.csv", index=False)
-    return filtered
